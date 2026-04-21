@@ -1,7 +1,0 @@
-Control ID,Framework,Control Area,Control Name,Status,Evidence Available,Owner Assigned,Policy Exists,Procedure Exists,Tested Recently
-SOC2-CC6.3,SOC 2,Logical Access,MFA Required,Partial,Yes,Yes,Yes,No,No
-SOC2-CC7.2,SOC 2,Change Management,Logging & Monitoring,Partial,No,Yes,Yes,No,No
-SOC2-CC7.3,SOC 2,Incident Response,Incident Response Plan,No,No,No,No,No,No
-HIPAA-T1,HIPAA,Technical,Access Control,Partial,Yes,Yes,Yes,No,No
-HIPAA-A1,HIPAA,Administrative,Risk Assessment Process,Yes,Yes,Yes,Yes,Yes,No
-HIPAA-P1,HIPAA,Physical,Facility Access Controls,Partial,No,Yes,Yes,No,No
