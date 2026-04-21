@@ -1,0 +1,6 @@
+Control ID,Framework,Control Area,Control Name,Status,Policy Exists,Procedure Exists,Owner Assigned,Evidence Available,Tested Recently,Critical Control
+SOC2-001,SOC 2,Logical Access,MFA Enforcement,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+SOC2-002,SOC 2,System Operations,Real-Time Monitoring,Partial,Yes,No,Yes,No,No,Yes
+SOC2-003,SOC 2,Vendor Management,Vendor Risk Management,No,No,No,No,No,No,Yes
+HIPAA-001,HIPAA,Technical,Data Encryption,No,Yes,No,Yes,No,No,Yes
+HIPAA-002,HIPAA,Risk Management,Annual Risk Assessment,Partial,Yes,Yes,Yes,No,No,Yes

@@ -1,0 +1,4 @@
+Asset,Vulnerability,Severity,Status,Source,CVSS,Finding Type
+admin.company.com,MFA not enforced on admin portal,Critical,Open,scanner,9.8,Authentication
+api.company.com,Weak TLS configuration,Medium,Open,scanner,6.5,Encryption
+siem.company.com,Monitoring alert not triggered,High,Open,scanner,8.1,Monitoring

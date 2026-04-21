@@ -1,0 +1,3 @@
+Asset,Issue,Severity,Status,Notes
+web01,Unpatched internet-facing server,High,Open,Missing updates
+portal01,MFA bypass path observed,Critical,Open,Admin login allowed without second factor
