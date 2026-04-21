@@ -1,0 +1,10 @@
+This is a combined full package.
+
+Main runtime:
+- uses the direct-upload SentinelRiskIQ app so client-friendly workbook uploads work immediately.
+
+Also included:
+- 2026 intake workbook and sample CSV
+- combined compliance sample CSV
+- logo asset
+- GitHub/Streamlit config files
